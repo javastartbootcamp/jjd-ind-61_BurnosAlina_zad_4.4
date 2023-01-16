@@ -2,7 +2,7 @@ package pl.javastart.task.loanProccess;
 
 public class SalesRepresentative {
 
-    public Config config;
+    private Config config;
 
     public SalesRepresentative() {
         this.config = new Config();
